@@ -4,7 +4,7 @@
 
 A Python CLI that mines NCBI and MGnify for protein sequences from extreme environments, scores them by predicted industrial applicability, optionally annotates them via BLAST, predicts 3D structures using ESMFold, and generates a self-contained interactive HTML report.
 
-Built by [Angie Xiu](https://github.com/axshoe) — [The Xiu Lab](https://thexiulab.com)
+Built by [A. Xiu](https://github.com/axshoe) — [The Xiu Lab](https://thexiulab.org)
 
 ---
 
