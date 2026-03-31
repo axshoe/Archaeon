@@ -1,0 +1,22 @@
+# Archaeon dependencies
+# Install: pip install -r requirements.txt
+
+# Bioinformatics
+biopython>=1.81          # Entrez API, SeqIO, BLAST parsing
+
+# HTTP
+requests>=2.31.0         # MGnify API calls, ESMFold API
+
+# Data processing
+pandas>=2.0.0            # CSV output and data manipulation
+numpy>=1.24.0            # Numerical operations
+
+# CLI and display
+tqdm>=4.65.0             # Progress bars
+colorama>=0.4.6          # Colored terminal output
+python-dotenv>=1.0.0     # .env file loading
+argparse                 # Standard library (already included)
+
+# Testing (optional but recommended)
+pytest>=7.4.0
+pytest-mock>=3.11.0
