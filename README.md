@@ -27,7 +27,7 @@ Open `data/outputs/archaeon_report.html` in any browser. No server needed.
 
 If you want to see Archaeon's output without installing anything, a pre-run report is hosted at:
 
-**[axshoe.github.io/archaeon](https://axshoe.github.io/archaeon)**
+**[axshoe.github.io/archaeon](https://axshoe.github.io/Archaeon/)**
 
 This is a static HTML report generated from a real pipeline run (84 candidates, BLAST-annotated, 5 structures predicted via ESMFold). The 3D structure viewers are interactive — rotate, zoom, and pan with mouse/touch. No server, no login, no install.
 
